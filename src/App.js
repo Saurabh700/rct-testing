@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import Button from "./Components/Button";
 import Counter from "./Components/Counter";
+import Slider from "./Components/Slider";
 
 function App() {
   const [theme, setTheme] = useState("light");
@@ -22,6 +23,9 @@ function App() {
       <hr />
 
       <Counter />
+
+      <hr />
+      <Slider />
     </div>
   );
 }

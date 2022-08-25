@@ -1,0 +1,29 @@
+.button {
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  margin-top: 1rem;
+  border-radius: 5px;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: greenyellow;
+}
+
+.ghost {
+  border: none;
+}
+
+.outline {
+  background-color: white;
+  border: 1px solid green;
+  color: black;
+}
+
+.crimson {
+  background-color: crimson;
+}

@@ -1,0 +1,4 @@
+1. create a react-app it will automatically install some testing libraries
+2. check if the test cases are rinning -> npm run test
+3. Delete App.test.js
+4. start writing logic
